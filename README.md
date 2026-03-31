@@ -1,4 +1,14 @@
-## Hi there 👋
+## 💬 About Me
+
+Student at Polar State University, interested in data analysis.
+
+- Exploring data analysis techniques
+- Learning to work with data and extract insights
+- Building skills for solving real-world problems with data
+
+## 🖥️ Tech Stack
+
+https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js
 
 <!--
 **hellyycode/hellyycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
