@@ -8,7 +8,10 @@ Student at Polar State University, interested in data analysis.
 
 ## 🖥️ Tech Stack
 
-[https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js](https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 <!--
 **hellyycode/hellyycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
