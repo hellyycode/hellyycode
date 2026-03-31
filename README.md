@@ -10,6 +10,6 @@ Student at Polar State University, interested in data analysis.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arch,figma,vim,ps,py,vscode,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,git,figma,ps,arch,vim,vscode" />
   </a>
 </p>
