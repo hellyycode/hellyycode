@@ -1,6 +1,6 @@
-## 💬 About Me
+# 💬 About Me
 
-# Student at Polar State University, interested in data analysis.
+## Student at Polar State University, interested in data analysis.
 
 - Exploring data analysis techniques
 - Learning to work with data and extract insights
