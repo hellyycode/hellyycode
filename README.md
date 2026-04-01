@@ -13,5 +13,3 @@
     <img src="https://skillicons.dev/icons?i=py,postgres,git,figma,ps,arch,vim,vscode,visualstudio&perline=3" />
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellyycode)](https://github.com/anuraghazra/github-readme-stats)
