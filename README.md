@@ -14,4 +14,3 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellyycode&theme=default&show_icons=true&hide_border=true&count_private=true)
