@@ -13,3 +13,10 @@
     <img src="https://skillicons.dev/icons?i=py,postgres,git,figma,ps,arch,vim,vscode,visualstudio&perline=3" />
   </a>
 </p>
+
+# 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hellyycode&show_icons=true&theme=radical)
+
+# 📫 Contact me
+Telegram: @ndfmanager
+Email: srbprogr@email.com
