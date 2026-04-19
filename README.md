@@ -20,6 +20,8 @@
 # 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hellyycode&theme=radical)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=hellyycode)
+
 # 📫 Contact me
 - Telegram: @ndfmanager
 - Email: srbprogr@email.com
