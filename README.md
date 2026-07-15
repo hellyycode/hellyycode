@@ -19,5 +19,4 @@
 
 
 # 📫 Contact me
-- Telegram: @ndfmanager
 - Email: srbprogr@email.com
