@@ -14,9 +14,6 @@
   </a>
 </p>
 
-# 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hellyycode&show_icons=true&theme=radical)
-
 # 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hellyycode&theme=radical)
 
